@@ -1,0 +1,6 @@
+{
+  "name": "QuantDash 零代码量化数据体验中心",
+  "description": "零代码量化数据体验中心 - 策略研究、回测与量化数据可视化分析平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
